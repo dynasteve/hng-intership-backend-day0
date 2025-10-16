@@ -80,6 +80,3 @@ Submit:
 - Stack (Python/FastAPI)
 
 ---
-
-Would you like me to generate the **ready-to-deploy FastAPI project folder** (with all these files scaffolded, including README, .env.example, and requirements.txt)?  
-You can then just drop in your personal info and push to GitHub.
